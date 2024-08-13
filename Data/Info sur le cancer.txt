@@ -1,0 +1,38 @@
+Question:
+ Histology:
+  -Infiltrating Ductal Carcinoma:
+	Invasive ductal carcinoma (IDC), also known as 
+	infiltrating ductal carcinoma, is cancer that 
+	began growing in a milk duct and has invaded 
+	the fibrous or fatty tissue of the breast 
+	outside of the duct. IDC is the most common 
+	form of breast cancer, representing 80 percent 
+	of all breast cancer diagnoses.
+  -Infiltrating Lobular Carcinoma:
+	Invasive lobular carcinoma (ILC), sometimes 
+	called infiltrating lobular carcinoma, is the 
+	second most common type of breast cancer after 
+	invasive ductal carcinoma.Invasive means that 
+	the cancer has “invaded” or spread to the surrounding 
+	breast tissues. Lobular means that the cancer began 
+	in the milk-producing lobules, which empty out into 
+	the ducts that carry milk to the nipple.
+  -Mucinous Carcinoma:
+ 	Mucinous carcinoma of the breast — sometimes called 
+	colloid carcinoma — is a rare form of invasive ductal 
+	carcinoma (cancer that begins in the milk duct and spreads 
+	beyond it into nearby healthy tissue). In this type of cancer, 
+	the tumor is made up of abnormal cells that “float” in pools of 
+	mucin (proteine), a key ingredient in the slimy, slippery substance 
+	known as mucus.
+ HER2 status:
+	HER2-positive breast cancer is a breast cancer that tests positive 
+	for a protein called human epidermal growth factor receptor 2 (HER2). 
+	This protein promotes the growth of cancer cells.
+ ER status:	
+	Estrogen receptor (ER) positive. The cells of this type of breast cancer 
+	have receptors that allow them to use the hormone estrogen to grow.
+ PR status:
+	Progesterone receptor (PR) positive. This type of breast cancer is sensitive 
+	to progesterone, and the cells have receptors that allow them to use this hormone 
+	to grow.
